@@ -1,5 +1,11 @@
 package single;
 
+/**
+ * 69. x 的平方根
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:38
+ * @Version:  1.0
+ */
 public class Single_0069 {
 
 	public static void main(String[] args) {

@@ -1,14 +1,29 @@
 package single;
 
-public class Single_0009 {
 
+/**
+ * 9. 回文数
+ * @Author:   江岩
+ * @Date:     2020/11/29 10:34
+ * @Version:  1.0
+ */
+public class Single_0009 {
+	/**
+	 * 启动方法
+	 * @Author 江岩
+	 * @Date 11:41 2020/11/29
+	 **/
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(test(145212541));
 	}
-
+	/**
+	 * (自定义方法描述)
+	 * @Author 江岩
+	 * @Date 12:24 2020/11/29
+	 * @Param [x]
+	 * @return boolean
+	 **/
 	public static boolean test(int x) {
-		
 		if (x <= 0) {
 			return false;
 		}

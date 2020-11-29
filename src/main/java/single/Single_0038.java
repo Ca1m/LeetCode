@@ -1,5 +1,12 @@
 package single;
 
+
+/**
+ * 38. 外观数列
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:36
+ * @Version:  1.0
+ */
 public class Single_0038 {
 
 	public static void main(String[] args) {

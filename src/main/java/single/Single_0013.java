@@ -1,10 +1,15 @@
 package single;
-
+/**
+ * 13.罗马数字转整数
+ * @Description:  (补充描述)
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:30
+ * @Version:  1.0
+ */
 public class Single_0013 {
 
 	public static void main(String[] args) {
 		System.out.println(romanToInt("MCCCXIV"));
-
 	}
 
 	public static int romanToInt(String s){
@@ -42,7 +47,6 @@ public class Single_0013 {
 				num += is[j];
 			}
 		}
-		
 		return num;
 	}
 }

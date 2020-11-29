@@ -3,10 +3,12 @@ package single;
 import bean.ListNode;
 
 /**
- * 面试题 02.03. 删除中间节点
- * @author ca1m
+ * mian 0203 删除中间节点
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:51
+ * @Version:  1.0
  */
-public class Single_mian__02_03 {
+public class Single_mian_0203 {
 
 	public static void main(String[] args) {
 		

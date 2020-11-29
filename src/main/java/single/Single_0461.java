@@ -1,5 +1,11 @@
 package single;
 
+/**
+ * 461. 汉明距离
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:40
+ * @Version:  1.0
+ */
 public class Single_0461 {
 
 	public static void main(String[] args) {

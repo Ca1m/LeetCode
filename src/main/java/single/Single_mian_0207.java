@@ -3,8 +3,10 @@ package single;
 import bean.ListNode;
 
 /**
- * 面试题 02.07. 链表相交
- * @author ca1m
+ * mian 0207 链表相交
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:50
+ * @Version:  1.0
  */
 public class Single_mian_0207 {
 

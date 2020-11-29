@@ -4,18 +4,17 @@ import bean.Node;
 
 /**
  * 559. N叉树的最大深度
- * @author ca1m
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:41
+ * @Version:  1.0
  */
 public class Single_0559 {
 	
 	private static int max = 0;
 	public static void main(String[] args) {
-		
 
 	}
-	
-	
-	
+
 	public int maxDepth(Node root) {
         
 		if (root == null) {

@@ -3,16 +3,15 @@ package single;
 import bean.TreeNode;
 
 /**
- * 面试题55 - I. 二叉树的深度
- * 
- * @author ca1m
+ * offer 55-01 二叉树的深度
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:49
+ * @Version:  1.0
  */
-public class Single_mian_0055 {
+public class Single_offer_0055_1 {
 
-	
 	public static void main(String[] args) {
 
-		
 		TreeNode root = new TreeNode(3);
 		TreeNode node_1 = new TreeNode(9);
 		TreeNode node_2 = new TreeNode(20);

@@ -6,16 +6,13 @@ import bean.ListNode;
 
 /**
  * 1290. 二进制链表转整数
- * @author ca1m
- */
+ * @Author 江岩
+ * @Date 12:44 2020/11/29
+ **/
 public class Single_1290 {
 	int i = 0;
 	public static void main(String[] args) {
-		
 	}
-
-	
-	
 	/**
 	 * 栈      1ms  37.3MB
 	 * @param head

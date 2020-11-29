@@ -8,18 +8,10 @@ import bean.Node;
 
 /**
  * 590. N叉树的后序遍历
- * 
- * 输入：  
- *        1
- *    3   2  4
- *  5   6
- *   
- *   前序遍历： 5 3 1 2 4 6    
- *   中序遍历： 1 3 5 6 2 4
- *   后序遍历： 5 6 3 2 4 1
- *   
- * 
- * @author ca1m
+ * @Description:  (补充描述)
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:41
+ * @Version:  1.0
  */
 public class Single_0590 {
 

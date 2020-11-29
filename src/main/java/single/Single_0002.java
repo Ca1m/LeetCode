@@ -2,13 +2,12 @@ package single;
 
 import bean.TreeNode;
 
+
 /**
  * LeetCode 27题： 二叉树的镜像
- * 
- * 输入：root = [4,2,7,1,3,6,9]
- * 输出：[4,7,2,9,6,3,1]
- * 
- * @author ca1m
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:29
+ * @Version:  1.0
  */
 public class Single_0002 {
 
@@ -39,11 +38,9 @@ public class Single_0002 {
 		if (root == null) {
 			return null;
 		}
-		
 		TreeNode tempNode = mirrorTree(root.left);
 		root.left = mirrorTree(root.right);
 		root.right = tempNode;
-		
 		return root;
 	}
 	

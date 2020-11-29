@@ -1,6 +1,11 @@
 package single;
 
-// 1480. 一维数组的动态和
+/**
+ * 1480. 一维数组的动态和
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:46
+ * @Version:  1.0
+ */
 public class Single_1480 {
 
 	public static void main(String[] args) {

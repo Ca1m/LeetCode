@@ -3,11 +3,12 @@ package single;
 import bean.TreeNode;
 
 /**
- * 面试题54. 二叉搜索树的第k大节点
- * 
- * @author ca1m
+ * offer 54 二叉搜索树的第k大节点
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:49
+ * @Version:  1.0
  */
-public class Single_0054 {
+public class Single_offer_0054 {
 
 	private int index = 0;
 	private int value = 0;
@@ -27,7 +28,7 @@ public class Single_0054 {
 		node_1.right = node_4;
 		node_3.left = node_5;
 		
-		System.out.println(new Single_0054().kthLargest(root, 3));
+		System.out.println(new Single_offer_0054().kthLargest(root, 3));
 		
 	}
 

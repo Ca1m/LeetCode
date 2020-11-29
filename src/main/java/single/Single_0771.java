@@ -1,5 +1,11 @@
 package single;
 
+/**
+ * 771. 宝石与石头
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:42
+ * @Version:  1.0
+ */
 public class Single_0771 {
 
 	public static void main(String[] args) {

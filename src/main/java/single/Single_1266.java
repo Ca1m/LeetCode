@@ -1,10 +1,10 @@
 package single;
 
-
 /**
  * 1266. 访问所有点的最小时间
- * @author ca1m
- *
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:43
+ * @Version:  1.0
  */
 public class Single_1266 {
 

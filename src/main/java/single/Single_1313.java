@@ -4,8 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 1313. 解压缩编码列表
- * @author ca1m
+ * 1331. 解压缩编码列表
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:45
+ * @Version:  1.0
  */
 public class Single_1313 {
 

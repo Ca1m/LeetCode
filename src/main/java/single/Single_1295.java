@@ -3,7 +3,9 @@ package single;
 
 /**
  * 1295. 统计位数为偶数的数字
- * @author ca1m
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:44
+ * @Version:  1.0
  */
 public class Single_1295 {
 

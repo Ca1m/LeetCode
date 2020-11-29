@@ -2,7 +2,9 @@ package single;
 
 /**
  * 1281. 整数的各位积和之差
- * @author ca1m
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:43
+ * @Version:  1.0
  */
 public class Single_1281 {
 
