@@ -2,6 +2,12 @@ package single;
 
 import bean.ListNode;
 
+/**
+ * 83. 删除排序链表中的重复元素
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:39
+ * @Version:  1.0
+ */
 public class Single_0083 {
 
 	public static void main(String[] args) {

@@ -2,8 +2,14 @@ package single;
 
 import bean.ListNode;
 
-//   ���룺1->2->4, 1->3->4
-//   �����1->1->2->3->4->4
+//  1->2->4, 1->3->4
+//  1->1->2->3->4->4
+/**
+ * 21. 合并两个有序链表
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:31
+ * @Version:  1.0
+ */
 public class Single_0021 {
 	public static void main(String[] args) {
 		ListNode l1 = new ListNode(1);

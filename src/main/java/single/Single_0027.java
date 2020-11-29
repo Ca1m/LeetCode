@@ -1,5 +1,12 @@
 package single;
 
+
+/**
+ * 27. 移除元素
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:36
+ * @Version:  1.0
+ */
 public class Single_0027 {
 
 	public static void main(String[] args){

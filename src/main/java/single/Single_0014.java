@@ -1,13 +1,15 @@
 package single;
 
+/**
+ * 14. 最长公共前缀
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:30
+ * @Version:  1.0
+ */
 public class Single_0014 {
-
 	public static void main(String[] args) {
-
 		System.out.println(longestCommonPrefix(new String[] {}));
-
 	}
-
 	public static String longestCommonPrefix(String[] strs) {
 		StringBuilder sb = new StringBuilder();
 		int len = strs.length;

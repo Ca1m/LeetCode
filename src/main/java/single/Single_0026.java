@@ -1,5 +1,11 @@
 package single;
 
+/**
+ * 26. 删除排序数组中的重复项
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:35
+ * @Version:  1.0
+ */
 public class Single_0026 {
 
 	public static void main(String[] args) {

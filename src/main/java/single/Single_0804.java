@@ -1,5 +1,12 @@
 package single;
 
+
+/**
+ * 804. 唯一摩尔斯密码词
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:42
+ * @Version:  1.0
+ */
 public class Single_0804 {
 
 	private static String[] str = new String[] { ".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---",

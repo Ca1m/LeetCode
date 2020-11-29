@@ -3,17 +3,11 @@ package single;
 import bean.ListNode;
 
 /**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) { val = x; }
- * }
- */
-/**
- * TODO :  创建链表，翻转
- * @author Infosec_jy
- *
+ * 206. 反转链表
+ * @Description:  (补充描述)
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:39
+ * @Version:  1.0
  */
 public class Single_0206 {
 	public static void main(String[] args) {

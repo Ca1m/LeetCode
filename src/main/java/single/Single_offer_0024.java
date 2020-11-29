@@ -2,10 +2,13 @@ package single;
 
 import bean.ListNode;
 
-/*
- * 面试题24. 反转链表
+/**
+ * offer 24  反转链表
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:48
+ * @Version:  1.0
  */
-public class Single_mian_0024 {
+public class Single_offer_0024 {
 
 	public static void main(String[] args) {
 		

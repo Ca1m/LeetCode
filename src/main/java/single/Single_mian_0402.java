@@ -2,6 +2,12 @@ package single;
 
 import bean.TreeNode;
 
+/**
+ * mian 0402 最小高度树
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:51
+ * @Version:  1.0
+ */
 public class Single_mian_0402 {
 
 	public static void main(String[] args) {

@@ -1,10 +1,12 @@
 package single;
 
 /**
- * 面试题58 - II. 左旋转字符串
- * @author ca1m
+ * offer 0058-2  左旋转字符串
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:54
+ * @Version:  1.0
  */
-public class Single_mian__58_2 {
+public class Single_offer_0058_2 {
 
 	public static void main(String[] args) {
 		

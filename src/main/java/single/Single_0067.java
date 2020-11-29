@@ -1,5 +1,11 @@
 package single;
 
+/**
+ * 67. 二进制求和
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:38
+ * @Version:  1.0
+ */
 public class Single_0067 {
 
 	public static void main(String[] args) {

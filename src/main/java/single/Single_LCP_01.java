@@ -1,15 +1,15 @@
 package single;
 
 /**
- * LCP 01. 猜数字
- * @author ca1m
+ * LCP 01 猜数字
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:47
+ * @Version:  1.0
  */
 public class Single_LCP_01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		
 	}
 
 	public int game(int[] guess, int[] answer) {

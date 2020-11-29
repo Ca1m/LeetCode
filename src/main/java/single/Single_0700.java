@@ -4,15 +4,16 @@ import bean.TreeNode;
 
 /**
  * 700. 二叉搜索树中的搜索
- * @author ca1m
- *
+ * @Description:  (补充描述)
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:42
+ * @Version:  1.0
  */
 public class Single_0700 {
 
 	public static void main(String[] args) {
 		
 	}
-
 	/**
 	 *  recursive
 	 */

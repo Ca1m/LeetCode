@@ -1,5 +1,12 @@
 package single;
 
+
+/**
+ * 53. 最大子序和
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:37
+ * @Version:  1.0
+ */
 public class Single_0053 {
 
 	public static void main(String[] args) {

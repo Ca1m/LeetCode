@@ -3,10 +3,12 @@ package single;
 import bean.ListNode;
 
 /**
- * 面试题 02 返回倒数第 k 个节点
- * @author ca1m
+ * offer 22 链表中倒数第k个节点
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:48
+ * @Version:  1.0
  */
-public class Single_mian_0022 {
+public class Single_offer_0022 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -2,9 +2,9 @@ package hard;
 
 /**
  * 76. 最小覆盖子串
- * 
- * 没有AC 因为测试用例长度太长
- * @author ca1m
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:57
+ * @Version:  1.0
  */
 public class Hard_0076 {
 

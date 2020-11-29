@@ -5,7 +5,9 @@ import java.util.List;
 
 /**
  * 1431. 拥有最多糖果的孩子
- * @author ca1m
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:46
+ * @Version:  1.0
  */
 public class Single_1431 {
 

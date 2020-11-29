@@ -1,7 +1,12 @@
 package single;
 
 import java.util.Stack;
-
+/**
+ * 20. 有效的括号
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:31
+ * @Version:  1.0
+ */
 public class Single_0020 {
 
 	public static void main(String[] args) {

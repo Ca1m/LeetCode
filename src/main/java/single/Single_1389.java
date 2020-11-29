@@ -2,7 +2,9 @@ package single;
 
 /**
  * 1389. 按既定顺序创建目标数组
- * @author ca1m
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:45
+ * @Version:  1.0
  */
 public class Single_1389 {
 

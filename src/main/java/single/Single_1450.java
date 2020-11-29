@@ -2,7 +2,9 @@ package single;
 
 /**
  * 1450. 在既定时间做作业的学生人数
- * @author ca1m
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:46
+ * @Version:  1.0
  */
 public class Single_1450 {
 

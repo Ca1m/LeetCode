@@ -2,7 +2,10 @@ package single;
 
 /**
  * 1342. 将数字变成 0 的操作次数
- * @author ca1m
+ * @Description:  (补充描述)
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:45
+ * @Version:  1.0
  */
 public class Single_1342 {
 
@@ -12,7 +15,6 @@ public class Single_1342 {
 		
 		System.out.println(numberOfSteps(num));
 	}
-	
 	
 	public static int numberOfSteps(int num) {
 		int time = 0;

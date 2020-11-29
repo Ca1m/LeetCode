@@ -4,8 +4,10 @@ import bean.TreeNode;
 
 /**
  * 104. 二叉树的最大深度
- * 
- * @author ca1m
+ * @Description:  (补充描述)
+ * @Author:   江岩
+ * @Date:     2020/11/29 12:39
+ * @Version:  1.0
  */
 public class Single_0104 {
 
