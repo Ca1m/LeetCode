@@ -1,4 +1,4 @@
-package single.range_100;
+package single.range_1000;
 
 /**
  * 1480. 一维数组的动态和

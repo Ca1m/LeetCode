@@ -1,4 +1,4 @@
-package single.range_100;
+package single.range_1000;
 
 /**
  * 1342. 将数字变成 0 的操作次数

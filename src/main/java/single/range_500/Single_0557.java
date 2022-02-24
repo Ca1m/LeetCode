@@ -1,4 +1,4 @@
-package single.range_100;
+package single.range_500;
 
 import javax.swing.plaf.synth.SynthTabbedPaneUI;
 

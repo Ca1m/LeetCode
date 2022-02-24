@@ -1,4 +1,4 @@
-package single.range_100;
+package single.range_1000;
 
 /**
  * 1365. 有多少小于当前数字的数字

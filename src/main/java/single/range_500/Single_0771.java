@@ -1,4 +1,4 @@
-package single.range_100;
+package single.range_500;
 
 /**
  * 771. 宝石与石头

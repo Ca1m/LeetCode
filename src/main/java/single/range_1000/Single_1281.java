@@ -1,4 +1,4 @@
-package single.range_100;
+package single.range_1000;
 
 /**
  * 1281. 整数的各位积和之差
