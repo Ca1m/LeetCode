@@ -1,4 +1,4 @@
-package single.range_100;
+package single.range_1000;
 
 /**
  * 1450. 在既定时间做作业的学生人数

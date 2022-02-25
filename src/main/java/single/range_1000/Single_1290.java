@@ -1,4 +1,4 @@
-package single.range_100;
+package single.range_1000;
 
 import java.util.Stack;
 
