@@ -13,8 +13,9 @@ public class Single_0217 {
 
     public static void main(String[] args) {
 
+        int[] nums = new int[]{1,2,2,1,3};
+        new Single_0217().containsDuplicate(nums);
     }
-
     // Set 做法
     public boolean containsDuplicate(int[] nums) {
         Set set = new HashSet();
