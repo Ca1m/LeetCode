@@ -34,6 +34,8 @@ public class Single_0228 {
                 if (stringBuffer.length() > 0) {
                     stringBuffer.append("->");
                 }
+
+                
                 stringBuffer.append(nums[i]);
                 list.add(stringBuffer.toString());
                 stringBuffer = new StringBuffer();
