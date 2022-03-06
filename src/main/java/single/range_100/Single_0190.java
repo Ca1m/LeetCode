@@ -11,6 +11,7 @@ public class Single_0190 {
 
     public static void main(String[] args) {
 
+        
         int n = 964176192;
         System.out.println(new Single_0190().reverseBits(n));
     }
