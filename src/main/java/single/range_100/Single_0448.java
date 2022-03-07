@@ -19,7 +19,6 @@ public class Single_0448 {
         for (Integer i : list) {
             System.out.print(i+",");
         }
-
     }
 
     public List<Integer> findDisappearedNumbers(int[] nums) {
