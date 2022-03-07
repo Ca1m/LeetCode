@@ -33,6 +33,7 @@ public class Single_0448 {
                 list.add(i+1);
             }
         }
+        
         return list;
     }
 
