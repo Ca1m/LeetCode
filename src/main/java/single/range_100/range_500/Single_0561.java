@@ -1,4 +1,4 @@
-package single.range_500;
+package single.range_100.range_500;
 
 import java.util.Arrays;
 
